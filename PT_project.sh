@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Made by Yarin Maimon
+# This is my 3rd project at John Bryce. Its purpuse is to identify ports, services, and vulnerabilities. Uses tools like nmap and masscan for scanning the network and searchsploit and hydra to identify security gaps, such as weak passwords.
 
 HOME=$(pwd)
 
