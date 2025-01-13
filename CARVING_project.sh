@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Made by Yarin Maimon
+# This is the 2nd project i did at John Bryce. Its purpuse is to carve a file and to identify and extract crucial data. Additionally, the script uses Volatility and all the necessary forensic tools.
 
 HOME=$(pwd)
 
