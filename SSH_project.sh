@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Made by Yarin Maimon
+# This is the 1st project I did in John Bryce. The goal here is to connect with SSH to another machine and use NMAP from there.
 
 # In this final function i wanted the user to be able to see how long the Remote server is up and then give it the ip that we wanted to scan. then scan with sshpass, and copy the results. i also use sshpass in the scp so that the user won't need to enter the password again.
 function SSH_connect()
