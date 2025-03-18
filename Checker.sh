@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Made by Yarin Maimon
+
 HOME=$(pwd)
 LOGFILE=/var/log/checker.log
 
