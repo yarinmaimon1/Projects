@@ -29,3 +29,16 @@ Disclaimer
 This tool is intended for ethical hacking and authorized security testing only. Unauthorized use against systems without explicit permission is illegal.
 
 ------------------------------------------------------
+Forensic File Carving & Memory Analysis Script
+Overview
+This Bash script automates forensic file analysis by extracting hidden files, network data, and memory artifacts from disk images and memory dumps. It leverages Volatility, Binwalk, Foremost, and Bulk Extractor to identify critical evidence for digital forensics and incident response (DFIR).
+
+Features
+✔ File Carving – Uses Foremost and Binwalk to recover deleted or hidden files.
+✔ Memory Analysis – Runs Volatility to extract processes, network connections, registry hives, and more.
+✔ String Extraction – Searches for passwords, usernames, and executable file paths.
+✔ Network Artifact Detection – Identifies PCAP files and extracts network data for further analysis.
+✔ Automated Reporting – Generates a summary of findings and stores results in a ZIP file.
+
+Disclaimer
+This tool is designed for ethical forensic investigations and authorized security analysis only. Unauthorized use against systems without permission is illegal.
