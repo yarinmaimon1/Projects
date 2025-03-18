@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Name: Yarin Maimon | Code: s4 | Class Code: 773632 | Lecturer's Name: David Shiffman/Erel Regev
-
 HOME=$(pwd)
 LOGFILE=/var/log/checker.log
 
